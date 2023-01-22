@@ -35,3 +35,12 @@ hr{
         font-weight: 14px;
     }
 }
+@media screen and (min-width: 1728px){
+    .lista-rodape{
+        border-left: 1px solid var(--cinza-titulo);
+        padding-left: 1em;
+    }
+    .rodapé{
+        padding: 3em 0;
+    }
+}
